@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZghRcTTcw1Mj+ihRW0at4uwz6rgxZSS3RWxCaB8KxmfcCjUuGUsMHOqJZghvRZ7XN0ZKBqOpaGMYgB99UqNQAA==",
+  "success": true,
+  "projectFilePath": "/Users/cassiofelipe/Projects/RabbitDotNetConsole/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/Users/cassiofelipe/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/cassiofelipe/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/cassiofelipe/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

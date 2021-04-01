@@ -1,0 +1,17 @@
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/Send.deps.json
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/Send.runtimeconfig.json
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/Send.runtimeconfig.dev.json
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/Send.dll
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/ref/Send.dll
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/Send.pdb
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.csprojAssemblyReference.cache
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.AssemblyInfoInputs.cache
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.AssemblyInfo.cs
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.csproj.CoreCompileInputs.cache
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.csproj.CopyComplete
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.dll
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/ref/Send.dll
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.pdb
+/Users/cassiofelipe/Projects/RabbitDotNetConsole/Send/obj/Debug/net5.0/Send.genruntimeconfig.cache
